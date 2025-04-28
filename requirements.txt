@@ -1,0 +1,7 @@
+flask
+gunicorn
+requests
+streamlit
+sentence-transformers
+faiss-cpu
+numpy
