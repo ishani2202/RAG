@@ -1,7 +1,7 @@
 import os
 from serpapi import GoogleSearch
 
-SERP_API_KEY = "0db5b9a8e9236c1f36cdda43aa5953ce80b1e6af2129d1e1a7da8993c6a6b420"  # Replace with your SerpAPI Key
+SERP_API_KEY = "0db5b9a8e9236c1f36cdda43aa5953ce80b1e6af2129d1e1a7da8993c6a6b420"  
 
 def get_google_results(query):
     search = GoogleSearch({
